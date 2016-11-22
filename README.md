@@ -4,8 +4,9 @@ This is a solution of the Termites problem. (Task: http://main.edu.pl/en/archive
 
 The full solution is described in the article: http://www.mimuw.edu.pl/~idziaszek/termity/termity.pdf
 
-# Example
-# input: 
+# 1 <=  n <= 1 000 000 && 0 <= l[i] <= 1 000 000 00
+
+# Example input: 
 # 8
 # 1 2 0 3 7 4 0 9
 
