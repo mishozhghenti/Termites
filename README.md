@@ -9,6 +9,6 @@ The full solution is described in the article: http://www.mimuw.edu.pl/~idziasze
 # Example input: 
 # 8
 # 1 2 0 3 7 4 0 9
-
+#
 # output:
 # 17 9
